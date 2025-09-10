@@ -1,5 +1,6 @@
 # MiniProject-FoodDelivery-Business
 **## Foodpanda Dataset Analysis ##**
+
 **1. Project Goal**
 This project aims to conduct an in-depth analysis of the Foodpanda dataset to gain valuable insights into customer behavior, order trends, and operational efficiency. The findings from this analysis can be used to optimize business strategies, improve customer satisfaction, and drive growth.
 
