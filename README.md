@@ -33,7 +33,6 @@ Identifying the most popular restaurants and dishes.
 
 **4. Key Findings and Visualization Results**
 From the data analysis and visualizations, several key insights were obtained:
-
 Monthly Revenue Trends: A line graph shows the revenue trend over time, identifying sales peaks that likely occur during specific months, which could be an ideal time for promotional campaigns.
 Restaurant Popularity: A bar chart shows that only a small number of restaurants account for the majority of orders. This highlights the key restaurant partners who are crucial to the business.
 Impact of Service Quality: The analysis shows a direct link between delivery status and customer ratings. Orders that are delayed or canceled tend to receive significantly lower ratings, affirming the importance of logistics efficiency.
